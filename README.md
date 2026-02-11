@@ -15,8 +15,7 @@ Welcome to my daily habit repository! This project serves as a personal archive 
 
 | Day | Problem Name | Difficulty | Solution | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](./solutions/TwoSum.java) | Hash Map for $O(n)$ |
-| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](./solutions/AddTwoNumbers.py) | Linked List traversal |
+| 001 | [Longest Balanced Subarray II]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/longest-balanced-subarray-ii?envType=daily-question&envId=2026-02-11)) | Hard | [Java](./Hard/LongestBalancedSubarrayII.java) | Lazy Segment Tree for $O(nlogn)$ |
 | ... | ... | ... | ... | ... |
 
 ---
