@@ -13,10 +13,11 @@ Welcome to my daily habit repository! This project serves as a personal archive 
 
 ## 📊 Progress Tracker
 
-| Day | Problem Name | Difficulty | Solution | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| 001 | [Longest Balanced Subarray II]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/longest-balanced-subarray-ii?envType=daily-question&envId=2026-02-11)) | Hard | [Java](./Hard/LongestBalancedSubarrayII.java) | Lazy Segment Tree for $O(nlogn)$ |
-| ... | ... | ... | ... | ... |
+| Day | Problem Name | Difficulty | Solution                                        | Notes                                          |
+|:----| :--- | :--- |:------------------------------------------------|:-----------------------------------------------|
+| 001 | [Longest Balanced Subarray II]([https://leetcode.com/problems/longest-balanced-subarray-ii](https://leetcode.com/problems/longest-balanced-subarray-ii)) | Hard | [Java](./Hard/LongestBalancedSubarrayII.java)   | Lazy Segment Tree for $O(nlogn)$               |
+| 002 | [Longest Balanced Substring I]([https://leetcode.com/problems/longest-balanced-substring-i](https://leetcode.com/problems/longest-balanced-substring-i)) | Hard | [Java](./Medium/LongestBalancedSubstringI.java) | Brute-force Bubstring Enumeration for $O(n^2)$ |
+| ... | ... | ... | ...                                             | ...                                            |
 
 ---
 
